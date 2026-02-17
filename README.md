@@ -45,3 +45,8 @@ RBOWS-1 is an Android prototype inspired by the Windows 11 phone-style concept.
 - If device is not shown in Android Studio, reconnect USB and accept the debug permission popup on phone.
 - If Gradle sync/build fails, check internet access and Android SDK installation inside Android Studio.
 - If install fails, uninstall older app version and reinstall.
+
+
+## Web UI code (React)
+- Added a React implementation draft at `web/src/App.jsx` based on your requested RBOWS 1 mobile suite structure.
+- You can copy this into a React + Tailwind project and wire it as the main `App` component.
